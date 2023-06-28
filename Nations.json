@@ -69,6 +69,41 @@
     "uniques":["Cities have a free specialist slot of your choice, and specialists generate +1 Food. May rechoose the free specialist slot when a Great Person is produced."],
     "cities":["Bianjing","Lin'an","Yangzhou","Guangzhou","Xijing","Fuzhou","Chengdu","Changsha","Chongqing","Quanzhou","Xiangtan","Jinling","Ganzhou","Yan'an","Hongzhou","Qingzhou","Chang'an","Guiyang","Guilin","Baoji","Wuchang","Zunyi","Mianyang","Tanzhou","Xiangzhou","Zhangzhou","Jiangling","Hejian","Taiyuan","Yingzhou"]
   },
+  {
+    "name":"Joseon",
+    "leaderName":"Sejong Daewang",
+    "adjective":["Citizen of Joseon"],
+    "startBias":["None"],
+    "preferredVictoryType":"Culture, Science",
+    "preferredReligion":"Confucianism",
+    "nationCulturalType":"Oriental",
+
+    "startIntroPart1":"Greetings to you, exalted King Sejong the Great, servant to the people and protector of the Joseon Dynasty! Your glorious vision of prosperity and overwhelming benevolence towards the common man made you the most beloved of all Korean kings. From the earliest days of your reign, the effort you took to provide a fair and just society for all was surpassed only by the technological advances spurred onwards by your unquenched thirst for knowledge. Guided by your wisdom, the scholars of the Jade Hall developed Korea's first written language, Hangul, bringing the light of literature and science to the masses after centuries of literary darkness.",
+    "startIntroPart2":"Honorable Sejong, once more the people look to you for guidance. Will you rise to the occasion, bringing harmony and understanding to the people? Can you once again advance your kingdom's standing to such wondrous heights? Can you build a civilization that stands the test of time?",
+
+    "introduction":"Welcome to the palace of Joseon, stranger. I am the learned King Sejong, who looks after his great people.",
+    "neutralHello":"May you pay gratitude to me, leader. What can I do for you?",
+    "neutralLetsHearIt":["Let's hear your proposal, shall we?","Go on, let's hear your proposal.","Tell me about your proposal."],
+    "neutralYes":["Joseon accepts your proposal.","I understand.","I can't see why not to."],
+    "neutralNo":["I won't accept that here.","I can't accept this.","Sorry, but I must disagreed with you here."],
+    "hateHello":"Oh, it's you. What do you want?",
+    "hateLetsHearIt":["What do you want to say?","Continue speaking about your proposal, I got no time for you anyway."]
+    "hateYes":["I suppose I agree to your proposal.","Fine! At least it's favourable."],
+    "hateNo":["Heaven forbid!!!","What insolent words!"],
+
+    "declaringWar":"Jip-hyun-jun will no longer tolerate your irksome behavior. We will liberate the citizens under your oppression even with force, and enlighten them.",
+    "attacking":"You poor, miserable wretch. You will be crushed by this country's magnificent scientific power!",
+    "defeated":"Now the question is who will protect my people. A dark age has come.",
+    "afterPeace":"How can it be this way? What strategies did you implement?",
+    "tradeRequest":"Hey there, we have many things to discuss and have much to benefit from each other.",
+
+    "outerColor":[0,5,255],
+    "innerColor":[215,5,5],
+
+    "uniqueName":"Scholars of the Jade Hall",
+    "uniques":["+2 Science for all specialists and for all Great Person tile improvements. Receive a tech boost each time a scientific building/Wonder is built in the Joseon's capital"],
+    "cities":["Seoul","Busan","Jeonju","Daegu","Pyongyang","Kaesong","Suwon","Gwangju","Gangneung","Hamhung","Wonju","Ulsan","Changwon","Andong","Gongju","Haeju","Cheongju","Mokpo","Dongducheon","Geoje","Suncheon","Jinju","Sangju","Rason","Gyeongju","Chungju","Sancheon","Gimje","Anju","Jeju","Sejong"]
+  },
       
     
     
