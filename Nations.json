@@ -23,6 +23,7 @@
 
     "declaringWar": "You disgrace! Your actions towards us is not acceptable, in fact, it's cruel. We Viet will gonna fight until our last breath! Prepared for war!",
     "attacking": "I don't think you're ready for war with us, and also, you and your nation is just a bunch of warmongers. Prepared to fight, leader!",
+    "defeated": "You have fell my empire. You have killed my soldiers. And for what? The Viet people will remember. They will rise up again, as they have done in past. This is a shallow victory, you should enjoy it while you can.",
     "afterPeace": "It seems you have some mercy in your heart, I like that, may our path have no more crossings of conflict.",
     "tradeRequest": "Our country need to trade with you, would you accept our trade deal?",
 
@@ -33,6 +34,31 @@
     "uniques": ["Mounted Units gain defensive terrain bonuses. Building Culture buildings produces a boost of Science, building Science buildings produces a boost of Culture."],
     "cities": ["Thăng Long","Thanh Hoá","Bắc Giang","Thành Đông","Hải Phòng","Thái Nguyên","Bắc Ninh","Thái Bình","Phú Xuân","Hà Tĩnh","Tiên Điền","Ninh Bình","Đường Lâm","Cao Bằng","Đồng Hới","Hạ Long","Hưng Yên","Yên Bái","Sơn Tây","Tuyên Quang","Hồng Lĩnh","Hoà Bình","Chí Linh","Phúc Yên","Đông Hà","Sơn La","Lào Cai","Hà Giang","Mỹ Linh","Lạng Sơn","Cẩm Phả","Phủ Lý","Thái Hoà","Hoàng Mai","Sầm Sơn","Tứ Sơn","Hồng Kỳ","Đồng Lạc","Trung Hòa","An Khải","Phú Cường","Qui Nhơn","Quảng Trị","Quảng Đông","Thừa Thiên","Quảng Nam","Bỉm Sơn","Hội An"],
   },
+  {
+    "name":"Song",
+    "leaderName":"Zhao Kuangyin",
+    "adjective":["Citizen of Song"],
+    "startBias":["None"],
+    "preferredVictoryType":"Culture, Science",
+    "preferredReligion":"Confucianism",
+    "nationCulturalType":"Oriental",
+
+    "startIntroPart1":"Greetings, Emperor Taizu of the Song Dynasty. By uniting China and demilitarizing its society, you brought a time of prosperity and stability to your country that hadn't been seen in ages, and even despite many setbacks and calamities due to foreign invasions, both your Dynasty and China prospered. Developing on ancient technologies, it was during the time of the Song Dynasty that China gifted to this world the Compass, Gunpowder and many other technological achievements, and grew to be the most populous country on earth.",
+    "startIntroPart2":"Oh great emperor and unitor, the heavens have bestowed upon you their mandate to rule over China again! Will you ascend to the title of Emperor, and safeguard China against all of her enemies? Can you build a civilization that will stand the test of time?",
+
+    "introduction":"Welcome, my most esteemed guest, to China. My name is Zhao Kuangyin, founder of the Song Dynasty and emperor of China. May our relations be ever cordial, and never descend to war and bloodshed.",
+    "neutralHello":"May you pay gratitude to me, leader. What can I do for you?",
+    "neutralLetsHearIt":["Let's hear your proposal, shall we?","I think listening to your proposal will be great.","Tell me about your proposal."],
+    "neutralYes":["China accepts your proposal.","I accept.","I agreed and supported your proposal"],
+    "neutralNo":["Sorry, but China couldn't accept your proposal.","I don't accept this.","Sorry, but I must disagreed with you here."],
+    "hateHello":"You bastard! How dare you set foot in the palace of my Song Dynasty?!",
+    "hateLetsHearIt":["What do you want, you bastard?!","What do you want in the present of the Emperor of China?!"]
+    "hateYes":["Your proposal at least pleasant to my ear!","You may leave, I accept!"],
+    "hateNo":["What the heck is that proposal?!","Ahhhh! No! I don't want to hear it anymore!","Absolutely not, I hope I can cut your head right now!"],
+
+    "declaringWar":"You little-! Your actions is a threat to China, I want to fight you and want to see you die! Die in my hand, with blood flowing into the Yellow and Yangtze Rivers. Prepare for war!"
+    "attacking":"",
+    "defeated":"And so ends my Dynasty. China welcomes you as Emperor; may your mandate of heaven be prosperous.",
       
     
     
