@@ -17,6 +17,13 @@
     "neutralYes": ["Alright.","Sounds good.","I accept your proposal"],
     "neutralNo": ["I can't accept you proposal","It can't do.","Your proposal is not favourable for me at all."],
     "hateHello": "Hey you, why are you still revealing your face and entering the court of our country?!",
-    "hateLetsHearIt": ["What do you want, say it now?!",""],
+    "hateLetsHearIt": ["What do you want, say it now?!","I don't have time, say it quickly"],
+    "hateYes": ["Fine! I accept!","Even I don't like you, I accept your proposal.","Your proposal at least sounds acceptable."],
+    "hateNo": ["Absolutely not!","No!","Your proposal is too bad for us Viet to accept!","No, simply bad proposal."],
+
+    "declaringWar": "You disgrace! Your actions towards us is not acceptable, in fact, it's cruel. We Viet will gonna fight until our last breath! Prepared for war!",
+    "attacking": "I don't think you're ready for war with us, and also, you and your nation is just a bunch of warmongers. Prepared to fight, leader!",
+    "afterPeace": "It seems you have some mercy in your heart, I like that, may our path have no more crossings of conflict.",
+    "trade
     
     
