@@ -57,8 +57,18 @@
     "hateNo":["What the heck is that proposal?!","Ahhhh! No! I don't want to hear it anymore!","Absolutely not, I hope I can cut your head right now!"],
 
     "declaringWar":"You little-! Your actions is a threat to China, I want to fight you and want to see you die! Die in my hand, with blood flowing into the Yellow and Yangtze Rivers. Prepare for war!"
-    "attacking":"",
+    "attacking":"Excuse me! War? Why you dare to challenge the Tiānzì and China, Shāngdì will punished you and your nation. May the mandate of heaven doesn't end with me.",
     "defeated":"And so ends my Dynasty. China welcomes you as Emperor; may your mandate of heaven be prosperous.",
+    "afterPeace":"Let's hope something like this will never happen again between us peoples.",
+    "tradeRequest":"We want you to trade with us, and we proposed this deal right here. Consider it, leader, in my opinion, this is quite fair.",
+
+    "outerColor":[0,5,255],
+    "innerColor":[205,195,5],
+
+    "uniqueName":"Imperial Examination",
+    "uniques":["Cities have a free specialist slot of your choice, and specialists generate +1 Food. May rechoose the free specialist slot when a Great Person is produced."],
+    "cities":["Bianjing","Lin'an","Yangzhou","Guangzhou","Xijing","Fuzhou","Chengdu","Changsha","Chongqing","Quanzhou","Xiangtan","Jinling","Ganzhou","Yan'an","Hongzhou","Qingzhou","Chang'an","Guiyang","Guilin","Baoji","Wuchang","Zunyi","Mianyang","Tanzhou","Xiangzhou","Zhangzhou","Jiangling","Hejian","Taiyuan","Yingzhou"]
+  },
       
     
     
