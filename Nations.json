@@ -1,0 +1,22 @@
+[
+  {
+    "name": "Dai Viet",
+    "leaderName": "Tran Thanh Tong",
+    "adjective": ["Viet"],
+    "startBias": ["River","Avoid Tundra and Desert"],
+    "preferredVictoryType": "Culture, Domination",
+    "preferredReligion": "Mahayana Buddhism",
+    "nationCultureType": "Mandala",
+
+    "startIntroPart1": "Heaven's fortunes be upon you Tran Thanh Tong. You inherited your father's Empire, his legacy, and his enemies. The Mongols controlled China to the north and looked greedily towards your lands. They came three times. Each you, your brother, and the noble Viet people fended them off. But winning wars against great odds was not the only feat you achieved. You built up the grand citadels of Thang Long, Thanh Hoa, and Thanh Dong. You patronised the arts and sciences, bringing Dai Viet into a new age of prosperity and even introducing the first exclusively Viet written language allowing your court to write in its own way rather than that of China. The Tran dynasty would rule on in prosperity from the foundations you built and feats you achieved.",
+    "startIntroPart2": "Great Tran Thanh Tong, the Viets call to you once more. Will you answer them and fend off the empires at the gates and be a champion of science and culture once more? Can you build an empire to stand the test of time?",
+
+    "introduction": ["Another face, another meeting. I greet you well friend. I am Tran Thanh Tong and this is my Empire, Dai Viet.","The mist parts and I greet you friend. Welcome to Dai Viet, a realm born of Dragons and Fairies. I am it's ruler Tran Thanh Tong."],
+    "neutralHello": "Greetings, leader, to my court. What can Dai Viet do for you?",
+    "neutralLetsHearIt": ["Let's hear your proposal","Please, tell me your proposal"],
+    "neutralYes": ["Alright.","Sounds good.","I accept your proposal"],
+    "neutralNo": ["I can't accept you proposal","It can't do.","Your proposal is not favourable for me at all."],
+    "hateHello": "Hey you, why are you still revealing your face and entering the court of our country?!",
+    "hateLetsHearIt": ["What do you want, say it now?!",""],
+    
+    
