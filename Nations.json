@@ -24,6 +24,16 @@
     "declaringWar": "You disgrace! Your actions towards us is not acceptable, in fact, it's cruel. We Viet will gonna fight until our last breath! Prepared for war!",
     "attacking": "I don't think you're ready for war with us, and also, you and your nation is just a bunch of warmongers. Prepared to fight, leader!",
     "afterPeace": "It seems you have some mercy in your heart, I like that, may our path have no more crossings of conflict.",
-    "trade
+    "tradeRequest": "Our country need to trade with you, would you accept our trade deal?",
+
+    "outerColor": [222,125,20],
+    "innerColor": [222,20,20],
+
+    "uniqueName": "Dance of Flowers",
+    "uniques": ["Mounted Units gain defensive terrain bonuses. Building Culture buildings produces a boost of Science, building Science buildings produces a boost of Culture."],
+    "cities": ["Thăng Long","Thanh Hoá","Bắc Giang","Thành Đông","Hải Phòng","Thái Nguyên","Bắc Ninh","Thái Bình","Phú Xuân","Hà Tĩnh","Tiên Điền","Ninh Bình","Đường Lâm","Cao Bằng","Đồng Hới","Hạ Long","Hưng Yên","Yên Bái","Sơn Tây","Tuyên Quang","Hồng Lĩnh","Hoà Bình","Chí Linh","Phúc Yên","Đông Hà","Sơn La","Lào Cai","Hà Giang","Mỹ Linh","Lạng Sơn","Cẩm Phả","Phủ Lý","Thái Hoà","Hoàng Mai","Sầm Sơn","Tứ Sơn","Hồng Kỳ","Đồng Lạc","Trung Hòa","An Khải","Phú Cường","Qui Nhơn","Quảng Trị","Quảng Đông","Thừa Thiên","Quảng Nam","Bỉm Sơn","Hội An"],
+  },
+      
+    
     
     
