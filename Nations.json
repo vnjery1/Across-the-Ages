@@ -1,17 +1,18 @@
 [
   {
     "name": "Dai Viet",
-    "leaderName": "Tran Thanh Tong",
+    "leaderName": "Trần Thánh Tông",
     "adjective": ["Viet"],
     "startBias": ["River","Avoid Tundra and Desert"],
     "preferredVictoryType": "Culture, Domination",
-    "preferredReligion": "Mahayana Buddhism",
+    "favoredReligion": "Mahayana Buddhism",
     "nationCultureType": "Mandala",
+    "nationGovernment": "Monarchy",
 
-    "startIntroPart1": "Heaven's fortunes be upon you Tran Thanh Tong. You inherited your father's Empire, his legacy, and his enemies. The Mongols controlled China to the north and looked greedily towards your lands. They came three times. Each you, your brother, and the noble Viet people fended them off. But winning wars against great odds was not the only feat you achieved. You built up the grand citadels of Thang Long, Thanh Hoa, and Thanh Dong. You patronised the arts and sciences, bringing Dai Viet into a new age of prosperity and even introducing the first exclusively Viet written language allowing your court to write in its own way rather than that of China. The Tran dynasty would rule on in prosperity from the foundations you built and feats you achieved.",
-    "startIntroPart2": "Great Tran Thanh Tong, the Viets call to you once more. Will you answer them and fend off the empires at the gates and be a champion of science and culture once more? Can you build an empire to stand the test of time?",
+    "startIntroPart1": "Heaven's fortunes be upon you Tran Thanh Tong. You inherited your father's Empire, his legacy, and his enemies. The Mongols controlled China to the north and looked greedily towards your lands. They came three times. Each you, your brother, and the noble Viet people fended them off. But winning wars against great odds was not the only feat you achieved. You built up the grand citadels of Thăng Long, Thanh Hoá, and Thành Đông. You patronised the arts and sciences, bringing Dai Viet into a new age of prosperity and even introducing the first exclusively Viet written language allowing your court to write in its own way rather than that of China. The Trần dynasty would rule on in prosperity from the foundations you built and feats you achieved.",
+    "startIntroPart2": "Great Trần Thánh Tông, the Viets call to you once more. Will you answer them and fend off the empires at the gates and be a champion of science and culture once more? Can you build an empire to stand the test of time?",
 
-    "introduction": ["Another face, another meeting. I greet you well friend. I am Tran Thanh Tong and this is my Empire, Dai Viet.","The mist parts and I greet you friend. Welcome to Dai Viet, a realm born of Dragons and Fairies. I am it's ruler Tran Thanh Tong."],
+    "introduction": ["Another face, another meeting. I greet you well friend. I am Trần Thánh Tông and this is my Empire, Dai Viet.","The mist parts and I greet you friend. Welcome to Dai Viet, a realm born of Dragons and Fairies. I am it's ruler Trần Thánh Tông."],
     "neutralHello": "Greetings, leader, to my court. What can Dai Viet do for you?",
     "neutralLetsHearIt": ["Let's hear your proposal","Please, tell me your proposal"],
     "neutralYes": ["Alright.","Sounds good.","I accept your proposal"],
@@ -40,8 +41,9 @@
     "adjective":["Citizen of Song"],
     "startBias":["None"],
     "preferredVictoryType":"Culture, Science",
-    "preferredReligion":"Confucianism",
+    "favoredReligion":"Confucianism",
     "nationCulturalType":"Oriental",
+    "nationGovernment":"Monarchy",
 
     "startIntroPart1":"Greetings, Emperor Taizu of the Song Dynasty. By uniting China and demilitarizing its society, you brought a time of prosperity and stability to your country that hadn't been seen in ages, and even despite many setbacks and calamities due to foreign invasions, both your Dynasty and China prospered. Developing on ancient technologies, it was during the time of the Song Dynasty that China gifted to this world the Compass, Gunpowder and many other technological achievements, and grew to be the most populous country on earth.",
     "startIntroPart2":"Oh great emperor and unitor, the heavens have bestowed upon you their mandate to rule over China again! Will you ascend to the title of Emperor, and safeguard China against all of her enemies? Can you build a civilization that will stand the test of time?",
@@ -52,7 +54,7 @@
     "neutralYes":["China accepts your proposal.","I accept.","I agreed and supported your proposal"],
     "neutralNo":["Sorry, but China couldn't accept your proposal.","I don't accept this.","Sorry, but I must disagreed with you here."],
     "hateHello":"You bastard! How dare you set foot in the palace of my Song Dynasty?!",
-    "hateLetsHearIt":["What do you want, you bastard?!","What do you want in the present of the Emperor of China?!"]
+    "hateLetsHearIt":["What do you want, you bastard?!","What do you want in the present of the Emperor of China?!"],
     "hateYes":["Your proposal at least pleasant to my ear!","You may leave, I accept!"],
     "hateNo":["What the heck is that proposal?!","Ahhhh! No! I don't want to hear it anymore!","Absolutely not, I hope I can cut your head right now!"],
 
@@ -75,8 +77,9 @@
     "adjective":["Citizen of Joseon"],
     "startBias":["None"],
     "preferredVictoryType":"Culture, Science",
-    "preferredReligion":"Confucianism",
+    "favoredReligion":"Confucianism",
     "nationCulturalType":"Oriental",
+    "nationGovernment":"Monarchy",
 
     "startIntroPart1":"Greetings to you, exalted King Sejong the Great, servant to the people and protector of the Joseon Dynasty! Your glorious vision of prosperity and overwhelming benevolence towards the common man made you the most beloved of all Korean kings. From the earliest days of your reign, the effort you took to provide a fair and just society for all was surpassed only by the technological advances spurred onwards by your unquenched thirst for knowledge. Guided by your wisdom, the scholars of the Jade Hall developed Korea's first written language, Hangul, bringing the light of literature and science to the masses after centuries of literary darkness.",
     "startIntroPart2":"Honorable Sejong, once more the people look to you for guidance. Will you rise to the occasion, bringing harmony and understanding to the people? Can you once again advance your kingdom's standing to such wondrous heights? Can you build a civilization that stands the test of time?",
@@ -87,7 +90,7 @@
     "neutralYes":["Joseon accepts your proposal.","I understand.","I can't see why not to."],
     "neutralNo":["I won't accept that here.","I can't accept this.","Sorry, but I must disagreed with you here."],
     "hateHello":"Oh, it's you. What do you want?",
-    "hateLetsHearIt":["What do you want to say?","Continue speaking about your proposal, I got no time for you anyway."]
+    "hateLetsHearIt":["What do you want to say?","Continue speaking about your proposal, I got no time for you anyway."],
     "hateYes":["I suppose I agree to your proposal.","Fine! At least it's favourable."],
     "hateNo":["Heaven forbid!!!","What insolent words!"],
 
@@ -103,6 +106,42 @@
     "uniqueName":"Scholars of the Jade Hall",
     "uniques":["+2 Science for all specialists and for all Great Person tile improvements. Receive a tech boost each time a scientific building/Wonder is built in the Joseon's capital"],
     "cities":["Seoul","Busan","Jeonju","Daegu","Pyongyang","Kaesong","Suwon","Gwangju","Gangneung","Hamhung","Wonju","Ulsan","Changwon","Andong","Gongju","Haeju","Cheongju","Mokpo","Dongducheon","Geoje","Suncheon","Jinju","Sangju","Rason","Gyeongju","Chungju","Sancheon","Gimje","Anju","Jeju","Sejong"]
+  },
+  {
+    "name":"The Viets",
+    "leaderName":"Trưng Trắc and Trưng Nhị",
+    "adjective":["Viet"],
+    "startBias":["None"],
+    "preferredVictoryType":"Domination, Culture",
+    "favoredReligion":"Mahayana Buddhism",
+    "nationCulturalType":"Oriental",
+    "nationGovernment":"Monarchy",
+
+    "startIntroPart1":"Let all the Viets bow unto their saviours, Trưng Trắc and Trưng Nhị! Though your origins were comparatively humble, you were schooled in the arts of warfare and in the history of your people. When the Han invaders inflicted great cruelties upon the people of your lands and murdered Thi Sách, you rose with the rage of the dragon and your countrymen rose with you, casting out the usurpers and establishing an independent nation. For the next three years, the Chinese broke upon your kingdom like waves upon a rock until at last you were defeated, though it took an army of a hundred thousand men to slay two women.",
+    "startIntroPart2":"O mightiest of sisters, you have more enemies than just China now; you face a host of barbarians, eager to enslave the people of a proud nation. Will you rise once more and fight for a free state for the Viets? Can you build a Civilisation that will stand the test of time?",
+
+    "introduction":"Hail, great leader, and look upon two leaders who are so much more. Tell us what you have to offer to us Viets.",
+    "neutralHello":"Greetings, leader. What can we do for you?",
+    "neutralLetsHearIt":["What do you want to say?","Go on, let's hear it."],
+    "neutralYes":["Understandable, we accept.","We see that. We accept.","We accept your proposal."],
+    "neutralNo":["Apologies, but we couldn't accept this.","We can't accept your proposal. Sorry."],
+    "hateHello":"It seems like you want something. Say it out loud.",
+    "hateLetsHearIt":["What do you want to say?","Let's hear it."],
+    "hateYes":["Ok, maybe we can accept this.","At least it's good for us Viets. We accept."],
+    "hateNo":["I beg your pardon?!","Absolutely not!"],
+
+    "declaringWar":"Now you are at war with us Viets. Do you hear our trumpets? The thunder of our elephants? They are rushing towards you!",
+    "attacking":"Us Viets have seen enough of you and your cruel actions, today marks a day for war between you and us. Prepare to be beaten.",
+    "defeated":"Our walls crumble, our fields burn... to the river, my dearest sister. And to you I say this: no rule is eternal. One day we shall rise again.",
+    "afterPeace":"We see your soldiers is being well-trained, let it be no more conflict between us leaders in the future.",
+    "tradeRequest":"Hey there, leader. We want to have a trade with you, hope you could trade with us some stuff.",
+
+    "outerColor":[0,5,255],
+    "innerColor":[215,5,5],
+
+    "uniqueName":"The Ascending Dragons of Mê Linh",
+    "uniques":["Defensive structures within a city increases the spawn rate of Great Writers, Artists and Musicians. Receive +5% Culture and +5% Food in each city for each Social Policy adopted in the Honor Tree."],
+    "cities":["Mê Linh","Hoa Lư","Đại La","Hát Môn","Phong Châu","Cổ Loa","Chu Diên","Luy Lâu","Tây Vu","Long Biên","Làng Bạc","Vọng Hải","Độ Hưng","Võ Công","Võ Biên","Dư Phát","Tây Quyền","Tỉ Ảnh","Chư Ngô","Lê Dung","Tượng Lâm","Trường Sa","Phiên Ngang","Độ Khuế","Kim Sơn","Thương Ngô","Bố Sơn","Tùy Nội","Long Xuyên","Tết Dương","Bác La"]
   },
       
     
