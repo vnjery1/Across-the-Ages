@@ -1,3 +1,4 @@
+//Nations
 [
   {
     "name": "Dai Viet",
@@ -179,6 +180,82 @@
     "uniques":["Specialists generate +2 Great People Points in cities with a Spy. Receive an extra Spy when you meet 50% and then 100% of all City-States."],
     "cities":["Nanjing","Shuntian","Fuzhou","Guangzhou","Guilin","Guiyang","Kaifeng","Wuchang","Nanchang","Xi'an","Jinan","Taiyuan","Chengdu","Kunming","Hangzhou","Fengyang","Baoding","Yanzhou","Pingyang","Luoyang","Fengxiang","Baoning","Ruizhou","Hanyang","Jiande","Xinghua","Zhaoqing","Nanning","Anshun","Shanghai","Qinzhou"]
   },
+  {
+    "name":"Silla",
+    "leaderName":"Seondeok",
+    "adjective":["Citizen of Silla"],
+    "startBias":["Hills"],
+    "preferredVictoryType":"Science, Religion",
+    "favoredReligion":"Mahayana Buddhism",
+    "nationCulturalType":"Far Eastern",
+    "nationGovernment":"Monarchy",
+
+    "startIntroPart1":"The stars reveal good omens for you and your people, Queen Seondeok of Silla. With farsightedness and peerless acumen you led your people through the turbulent times that consumed the Korean peninsula during the 6th century AD. As Silla's first-ever queen regnant, you would ensure the her eventual preeminence as the ruler of the land of the morning calm through an alliance with the Tang dynasty. You would also promote an efflorescence of art, learning, and religion, patronizing the construction of many temples and pagodas, as well as that of Cheomseongdae, the tower of the moon and stars, the oldest observatory in the Orient.",
+    "startIntroPart2":"Most astute Queen, the alliances you established have faded from memory, and Silla's people starve for want of wisdom. They require a strong, perspicacious leader who will speak unto them the words of blessing written in the heavens. Can you be for Silla this queen once more? Can you build a civilization that will stand the test of time?",
+
+    "introduction":"I, Seondeok of Silla, acknowledge you. Our meeting was foreseen.",
+    "neutralHello":"It's nice to meet you again. What can I do for you?",
+    "neutralLetsHearIt":["Let's hear your proposal.","You may speak out about your proposal."],
+    "neutralYes":["The stars shows great beneficial for Silla to accept.","I have foreseen great signs from the sky. I accept."],
+    "neutralNo":["It seems the stars showing the proposal is no good. I can't approve your proposal.","I have foreseen bad signs from the sky. I can't accept."],
+    "hateHello":"Huh! Why you even dare to come here?! What do you want?!",
+    "hateLetsHearIt":["What do you want?!","Say your proposal out loud."],
+    "hateYes":["The stars agree, so I must too.","Ugh! Fine! I accept!"],
+    "hateNo":["Heaven forbid me to accept, and I feel it was good sign for Silla.","Your words don't please the stars at all, you will gets punished afterwards."],
+
+    "declaringWar":"The stars foretell your defeat. Heaven will cannot be denied.",
+    "attacking":"I foresee that your defeat will be swift and your nation will be forgotten.",
+    "defeated":"I foresaw my own end, but not that Silla would share my fate.",
+    "afterPeace":"It seems the stars shows the signs of peace, so I must accept peace.",
+    "tradeRequest":"I have foreseen that Silla will make trade with you, so I must trade you with these terms.",
+
+    "outerColor":[255,255,255],
+    "innerColor":[0,0,0],
+
+    "uniqueName":"Path to Doricheon",
+    "uniques":["Researching Technologies provides Influence with all met city-states, decreasing for each civilization that has already done so. Academies yield Faith when worked."],
+    "cities":["","","","","","","","","","","","","","","","","","","","","","","","","","","","","","",""]
+  },
+]
+//Template
+[
+  {
+    "name":"Template",
+    "leaderName":"Template",
+    "adjective":["Template"],
+    "startBias":["Template"],
+    "preferredVictoryType":"Template",
+    "favoredReligion":"Template",
+    "nationCulturalType":"Template",
+    "nationGovernment":"Template",
+
+    "startIntroPart1":"Template",
+    "startIntroPart2":"Template",
+
+    "introduction":"Template",
+    "neutralHello":"Template",
+    "neutralLetsHearIt":["",""],
+    "neutralYes":["","",""],
+    "neutralNo":["",""],
+    "hateHello":"Template",
+    "hateLetsHearIt":["",""],
+    "hateYes":["",""],
+    "hateNo":["",""],
+
+    "declaringWar":"",
+    "attacking":"",
+    "defeated":"",
+    "afterPeace":"",
+    "tradeRequest":"",
+
+    "outerColor":[255,255,255],
+    "innerColor":[0,0,0],
+
+    "uniqueName":"Template",
+    "uniques":["Template"],
+    "cities":["","","","","","","","","","","","","","","","","","","","","","","","","","","","","","",""]
+  },
+]
       
     
     
