@@ -114,7 +114,7 @@
     "startBias":["None"],
     "preferredVictoryType":"Domination, Culture",
     "favoredReligion":"Mahayana Buddhism",
-    "nationCulturalType":"Oriental",
+    "nationCulturalType":"Viet-Muong",
     "nationGovernment":"Monarchy",
 
     "startIntroPart1":"Let all the Viets bow unto their saviours, Trưng Trắc and Trưng Nhị! Though your origins were comparatively humble, you were schooled in the arts of warfare and in the history of your people. When the Han invaders inflicted great cruelties upon the people of your lands and murdered Thi Sách, you rose with the rage of the dragon and your countrymen rose with you, casting out the usurpers and establishing an independent nation. For the next three years, the Chinese broke upon your kingdom like waves upon a rock until at last you were defeated, though it took an army of a hundred thousand men to slay two women.",
@@ -142,6 +142,42 @@
     "uniqueName":"The Ascending Dragons of Mê Linh",
     "uniques":["Defensive structures within a city increases the spawn rate of Great Writers, Artists and Musicians. Receive +5% Culture and +5% Food in each city for each Social Policy adopted in the Honor Tree."],
     "cities":["Mê Linh","Hoa Lư","Đại La","Hát Môn","Phong Châu","Cổ Loa","Chu Diên","Luy Lâu","Tây Vu","Long Biên","Làng Bạc","Vọng Hải","Độ Hưng","Võ Công","Võ Biên","Dư Phát","Tây Quyền","Tỉ Ảnh","Chư Ngô","Lê Dung","Tượng Lâm","Trường Sa","Phiên Ngang","Độ Khuế","Kim Sơn","Thương Ngô","Bố Sơn","Tùy Nội","Long Xuyên","Tết Dương","Bác La"]
+  },
+  {
+    "name":"Ming",
+    "leaderName":"Zhū Dì (Yongle)",
+    "adjective":["Citizen of Ming"],
+    "startBias":["None"],
+    "preferredVictoryType":"Domination, Diplomacy",
+    "favoredReligion":"Mahayana Buddhism, Confucianism, Taoism",
+    "nationCulturalType":"Oriental",
+    "nationGovernment":"Monarchy",
+
+    "startIntroPart1":"Eternal happiness to you, Yongle, great Emperor of the Ming. Overcoming the treachery of your nephew, the Jianwen Emperor, you launched a campaign to seize China and restore it to greatness. Guided by your loyal and ever-watchful Scholar-Eunuchs, your imperial rule oversaw immeasurable splendour: the construction of great wonders, the advancement of deep knowledge, and the projection of China's power through the legendary Seven Voyages of Zhu Di.",
+    "startIntroPart2":"At no other time before would China be so prosperous. Heavenly emperor, the legends of China's great accomplishments threaten to fade into memory. Can you be a patron to scholars and explorers alike? Can you show the world that China is both powerful and wise? Can you build a civilization that can stand the test of time?",
+
+    "introduction":"Greetings, foreign leader. I am Yongle, ruler of the Great Ming. Have you come to witness the might and wealth of China for yourself?",
+    "neutralHello":"Greetings, leader. What can we do for you?",
+    "neutralLetsHearIt":["What proplsal do you have in mind?","Let's hear your proposal."],
+    "neutralYes":["I approve your proposal.","I see. I accept.","I must say it's good for us. I accept."],
+    "neutralNo":["Sorry for what I gonna say, but I can't approve it.","I can't accept, it's not beneficiary."],
+    "hateHello":"I see that you want to do something with me. Say it.",
+    "hateLetsHearIt":["Say it. I want to hear it.","I want to hear your proposal now, say it quickly."],
+    "hateYes":["Maybe you still have something good on mind.","At least my officials approve your proposal."],
+    "hateNo":["You scoundrel! You just talk nonsense to the court of Ming!","You and your proposal is as nonsense as the mind of the evil!"],
+
+    "declaringWar":"It is not my wish to conquer your realm by force, but there is no other way. Prepare for our riflemen to come.",
+    "attacking":"You might as well conquer the heaven itself. Hahaha. We'll see how well you control the bowstrings.",
+    "defeated":"I have lost the mandate to rule. It passes to you, leader.",
+    "afterPeace":"I hope that we could be more sensible about our disagreement after this.",
+    "tradeRequest":"I have a trade deal for you, may you have thought thoughtfully when you see the deal is fair and right for you.",
+
+    "outerColor":[255,255,245],
+    "innerColor":[215,215,5],
+
+    "uniqueName":"Imperial Eunuchs",
+    "uniques":["Specialists generate +2 Great People Points in cities with a Spy. Receive an extra Spy when you meet 50% and then 100% of all City-States."],
+    "cities":["Nanjing","Shuntian","Fuzhou","Guangzhou","Guilin","Guiyang","Kaifeng","Wuchang","Nanchang","Xi'an","Jinan","Taiyuan","Chengdu","Kunming","Hangzhou","Fengyang","Baoding","Yanzhou","Pingyang","Luoyang","Fengxiang","Baoning","Ruizhou","Hanyang","Jiande","Xinghua","Zhaoqing","Nanning","Anshun","Shanghai","Qinzhou"]
   },
       
     
