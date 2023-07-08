@@ -209,12 +209,12 @@
     "afterPeace":"It seems the stars shows the signs of peace, so I must accept peace.",
     "tradeRequest":"I have foreseen that Silla will make trade with you, so I must trade you with these terms.",
 
-    "outerColor":[255,255,255],
-    "innerColor":[0,0,0],
+    "outerColor":[255,25,25],
+    "innerColor":[245,255,245],
 
     "uniqueName":"Path to Doricheon",
     "uniques":["Researching Technologies provides Influence with all met city-states, decreasing for each civilization that has already done so. Academies yield Faith when worked."],
-    "cities":["","","","","","","","","","","","","","","","","","","","","","","","","","","","","","",""]
+    "cities":["Seorabeol","Yeomhae","Geungi","Namirimdong","Gijeo","Bulsa","Gumi","Yeodam","Horo","Juseon","Uyu","Cheongdo","Andong","Changyeong","Pohang","Miryang","Ulsan","Sancheon","Sangju","Gyeongsan","Yeondeok","Cheolseong","Wiryeseong","Geoje","Uiseong","Yacheon","Uijin","Taebaek","Samcheok","Donghae","Wonju"]
   },
 ]
 //Template
