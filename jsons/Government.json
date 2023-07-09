@@ -1,0 +1,16 @@
+[
+  {
+    "name":"Tribalism",
+    "governmentUniques":["All cities will be captured when the capital got captured. Recieve 3 Spearman every time when a city is settled."],
+  },
+  {
+    "name":"Monarchism",
+    "governmentUniques":["When a Palace is built in a city, recieve +2 Cultural Point. When Great Person is expended, recieve +5 Cultural Point."],
+  },
+  {
+    "name":"Tribal Chiefdom",
+    "governmentUniques":["When at war, recieve +25% Production towards Melee and Scout units. When the capital is captured, can't settle new cities and can't recieve or built Settlers."],
+    "prerequisites":["Tribalism"],
+  },
+  
+    
