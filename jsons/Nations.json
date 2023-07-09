@@ -1,5 +1,12 @@
 //Nations
 [
+//Spectator
+  {
+    "name":"Spectator"
+    "outerColor":[255,255,255],
+    "innerColor":[0,0,0],
+  },
+//Region:East Asia
   {
     "name": "Dai Viet",
     "leaderName": "Trần Thánh Tông",
@@ -252,9 +259,43 @@
     "uniques":["Earn Golden Age points from claiming Hills and Mountain tiles while the empire is happy. Mounted units lose their rough terrain penalty when starting next to a Great General."],
     "cities":["Gungnae","Jolbon","Mokjeo","Namso","Pyongyang","Shin","Hyeongdo","Gaemo","Baegam","Yodong","Ansi","Geonan","Bisa","Ogol","Bakjak","Buyeo","Wiryeseong","Okjeo","Uiju","Heunghwa","Jeongju","Yeonghae","Jeong-yung","Yeong-won","Pyeonglo","Sagju","Yeongheung","Maengju","Cheongsae","Unju","Ansu","Yeongsag","Yodeog","Yeongdong","Jeongbyeon","Wiwon"]
   },
-]
+  {
+    "name":"Sui",
+    "leaderName":"Yang Jian (Emperor Wen)",
+    "adjective":["Citizen of Wen"],
+    "startBias":["None"],
+    "preferredVictoryType":"Domination, Religion",
+    "favoredReligion":"Mahayana Buddhism, Taoism",
+    "nationCulturalType":"Oriental",
+    "nationGovernment":"Monarchy",
+
+    "startIntroPart1":"May Buddha blessed you on your path, Emperor Wen. You have united the whole China under your rule in 589, although you have raid the city of Jiankang to the ground. You have revoked the anti-Han policies of the old Northern Zhou, and reclaimed your Han surname back, and have made significant agriculture policies that made your dynasty peaked, before got beaten by the Tang dynasty at its zenith.",
+    "startIntroPart2":"O the great Wen, you now have to face not just the Chen, but so many others, can you build a dynasty that could grown from war and peace, from agriculture itself? Will you build a civilization that can stand the test of time?",
+
+    "introduction":"Welcome to the court of Sui, I am Emperor Wen, the 'Cultured Emperor' of Sui.",
+    "neutralHello":"I welcome you in my court. What can I do for you here?",
+    "neutralLetsHearIt":["Let's hear your proposal when we drink some tea.","Stand up and say about your proposal."],
+    "neutralYes":["Certainly, I accept.","I can't see why not to accept this.","Yes, of course, why not?"],
+    "neutralNo":["Certainly not, I afraid.","I deny your proposal, for now."],
+    "hateHello":"Why did you come here?! Do you have something to say to me?!",
+    "hateLetsHearIt":["Let's hear your nonsense.","Ok, let's hear it."],
+    "hateYes":["I see. Fine, I accept.","I couldn't see why not."],
+    "hateNo":["Oh gosh, no! Absolutely not! I don't accept your preposterous proposal!","Absolutely not! You must get out of my court, NOW!"],
+
+    "declaringWar":"You and your actions shall be seen by the world! I declare war on you to proof that!",
+    "attacking":"How dare you?! How preposterous are you! You shall be beaten by my army. Prepare, you cruel demon on earth!",
+    "defeated":"How? How?! My dynasty is defeated. You and your dynasty shall continue the mandate of heaven.",
+    "afterPeace":"It seems you are known how to stop. A leader don't thirsting for blood of men is a wise leader.",
+    "tradeRequest":"I think we need to have a trade agreement, and I got an offer for you. Now, it's your to decide.",
+
+    "outerColor":[255,147,0],
+    "innerColor":[255,247,0],
+
+    "uniqueName":"Fubing",
+    "uniques":["Worked Farms provide +3% Gold to their city while at peace, or +2% Production towards Land Units while at war. Upon the outbreak of war, garrisoned units recieve experience based on city's Population."],
+    "cities":["Daxing","Dongdu","Jiangdu","Yuhang","Hongnong","Jiankang","Guanzhong","Hanchuan","Xiangyang","Pengcheng","Yongjia","Xīndu","Beihai","Shanshan","Xihai","Wuwei","Yan'an","Jincheng","Wenshan","Anshan","Hengshan","Changsha","Dingxiang","Nankang","Yuyang","Shi'an","Zhuya","Ningyue","Jiaozhi","Beiping","Liaodong"]
+  },
 //Template
-[
   {
     "name":"Template",
     "leaderName":"Template",
@@ -265,15 +306,15 @@
     "nationCulturalType":"Template",
     "nationGovernment":"Template",
 
-    "startIntroPart1":"Template",
-    "startIntroPart2":"Template",
+    "startIntroPart1":"",
+    "startIntroPart2":"",
 
-    "introduction":"Template",
-    "neutralHello":"Template",
+    "introduction":"",
+    "neutralHello":"",
     "neutralLetsHearIt":["",""],
     "neutralYes":["","",""],
     "neutralNo":["",""],
-    "hateHello":"Template",
+    "hateHello":"",
     "hateLetsHearIt":["",""],
     "hateYes":["",""],
     "hateNo":["",""],
@@ -291,6 +332,14 @@
     "uniques":["Template"],
     "cities":["","","","","","","","","","","","","","","","","","","","","","","","","","","","","","",""]
   },
+//Barbarian
+  {
+    "name":"Barbarian",
+    "outerColor":[0,0,0],
+    "innerColor":[255,0,0],
+    "uniqueName":"We just want to Pillage",
+    "uniques":["Can only heal by pillaging"],
+  }
 ]
       
     
