@@ -148,7 +148,7 @@
     "innerColor":[215,5,5],
 
     "uniqueName":"The Ascending Dragons of Mê Linh",
-    "uniques":["Defensive structures within a city increases the spawn rate of Great Writers, Artists and Musicians. Receive +5% Culture and +5% Food in each city for each Social Policy adopted in the Honor Tree."],
+    "uniques":["Defensive structures within a city increases the spawn rate of Great Writers, Artists and Musicians. Receive +5% Culture and +5% Food in each city for adopting Monarchism as the government."],
     "cities":["Mê Linh","Hoa Lư","Đại La","Hát Môn","Phong Châu","Cổ Loa","Chu Diên","Luy Lâu","Tây Vu","Long Biên","Làng Bạc","Vọng Hải","Độ Hưng","Võ Công","Võ Biên","Dư Phát","Tây Quyền","Tỉ Ảnh","Chư Ngô","Lê Dung","Tượng Lâm","Trường Sa","Phiên Ngang","Độ Khuế","Kim Sơn","Thương Ngô","Bố Sơn","Tùy Nội","Long Xuyên","Tết Dương","Bác La"]
   },
   {
