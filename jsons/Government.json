@@ -8,6 +8,7 @@
     "governmentUniques":["When a Palace is built in a city, recieve +2 Cultural Point. When Great Person is expended, recieve +5 Cultural Point."],
     "prerequisites":["Feudalism"],
     "requiredEra": ["Medieval Era"],
+    "requiredTech": ["Chivalry"],
   },
   {
     "name":"Tribal Chiefdom",
@@ -26,14 +27,34 @@
     "governmentUniques":["Recieve Great People 50 times faster. When a Great People is expended, recieve +5% in Culture, Faith, Gold, and Production."],
     "prerequisites":["Tribal Chiefdom"],
     "requiredEra":["Classical Era"],
-    "requiredPolicy":["The Election System"],
+    "requiredPolicy":["Under Multiple Men", "The Election System"],
   },
   {
     "name":"Autocracy",
-    "governmentUniques":["Receive one additional policy when adopts Tradition policy tree."],
+    "governmentUniques":["Receive one additional policy when adopts Under One Man. Recieve +5 Food every time a city have 2 farms."],
     "prerequisites":["Tribal Chiefdom"],
     "requiredEra":["Ancient Era"],
-    "requiredPolicy":["Tradition"],
+    "requiredPolicy":["Under One Man"],
+  },
+  {
+    "name":"Classical Oligarchy",
+    "governmentUniques":["Recieve +2 Production in every Farm, every Pasture, every Barracks when adopts Under Multiple Men."],
+    "prerequisites":["Tribal Chiefdom"],
+    "requiredEra":["Classical Era"],
+    "requiredPolicy":["Under Multiple Man","Assert Dominance I"],
+  },
+  {
+    "name":"Theocracy",
+    "governmentUniques":["When adopt this government, a Great Prophet will be built. When a Religious Building was built, recieve a Missionary. Great Prophet and Missionary can spread the religion 10 times."],
+    "requiredEra":["Medieval Era"],
+    "requiredTech":["Theology"],
+  },
+  {
+    "name": "Imamate",
+    "governmentUniques":["Every Great Prophet is receiving the Allamah promotion and the missionary is recieving the Alim promotion. Every Mosque and Masjid that is built will recieve +10 Faith."],
+    "prerequisites":["Theocracy","Feudalism"],
+    "requiredEra":["Medieval Era"],
+    "requiredReligion":["Sunni Islamism", "Shia Islamism"],
   },
   
     
