@@ -2,4 +2,39 @@
   //Land
   {
     "unitType":"Civilian",
-    "movement
+    "movementType":"Land",
+  },
+  {
+    "unitType":"Melee",
+    "movementTyle":"Land",
+  },
+  {
+    "unitType":"Ranged",
+    "movementType":"Land",
+  },
+  {
+    "unitType":"Calvary",
+    "movementType":"Land",
+  },
+  {
+    "unitType":"Scout",
+    "movementType":"Land",
+  },
+  {
+    "unitType":"Machinery",
+    "movementType":"Land",
+  },
+  //Water
+  {
+    "unitType":"Submarine",
+    "movementType":"Water",
+  },
+  {
+    "unitType":"Wood Boats",
+    "movementType":"Water",
+  },
+  {
+    "unitType":"Steel Boats",
+    "movementType":"Water",
+  },
+  //Aerial
