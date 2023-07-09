@@ -216,6 +216,42 @@
     "uniques":["Researching Technologies provides Influence with all met city-states, decreasing for each civilization that has already done so. Academies yield Faith when worked."],
     "cities":["Seorabeol","Yeomhae","Geungi","Namirimdong","Gijeo","Bulsa","Gumi","Yeodam","Horo","Juseon","Uyu","Cheongdo","Andong","Changyeong","Pohang","Miryang","Ulsan","Sancheon","Sangju","Gyeongsan","Yeondeok","Cheolseong","Wiryeseong","Geoje","Uiseong","Yacheon","Uijin","Taebaek","Samcheok","Donghae","Wonju"]
   },
+  {
+    "name":"Goguryeo",
+    "leaderName":"Gwanggaeto",
+    "adjective":["Citizen of Goguryeo"],
+    "startBias":["None"],
+    "preferredVictoryType":"Template",
+    "favoredReligion":"Confucianism, Mahayana Buddhism",
+    "nationCulturalType":"Oriental",
+    "nationGovernment":"Monarchy",
+
+    "startIntroPart1":"An era of endless joy awaits your people, Gwanggaeto, sovereign over Goguryeo and all her people. Nestled in the mountains of the Korean peninsula, Goguryeo was merely one of many vying for supremacy. But when you, O supreme king, grasped the reins of power, you would rouse the kingdom's martial spirit and direct it towards one of the greatest exertions of energy seen in the history of Asia. By your strength of arms you brought countless domains into the kingdom's fold, and by your heaven-sent wisdom you administered them justly. Rightly you are known as the the kingdom's Broad Expander of Domain!",
+    "startIntroPart2":"Yeongnak Emperor, before you lies a new world ripe for conquest, and behind you lies the only army that matters. Will you take up your sword and lead Goguryeo's charge towards grand prosperity? Or will you usher in an era of jubilation with your just governance? Will you build a civilization that can stand the test of time?",
+
+    "introduction":"Good morrow to you, foreign leader. I am Gwanggaeto, sovereign over the lands called Goguryeo. Shall we discuss how to divide this world between our two great nations?",
+    "neutralHello":"Greetings, leader. What can I and Goguryeo do for you?",
+    "neutralLetsHearIt":["Ok, let's hear your proposal.","What is your proposal?"],
+    "neutralYes":["It seems it was great. I accept.","Goguryeo can't deny your proposal. I accept.","I can't see why I should deny your proposal."],
+    "neutralNo":["Sorry, I think it's not the right time.","I can't accept this, for now at least."],
+    "hateHello":"Why do you come to Goguryeo? What for? Say it out loud.",
+    "hateLetsHearIt":["Say it quickly, I don't have time for you.","What is your proposal? Say it quickly!"],
+    "hateYes":["Ok, fine, I accept.","Goguryeo at least feels pleased with this."],
+    "hateNo":["Shibal!!! Your word is nonsense in this court. Get out!","Nonsense! I don't accept this. I hope you eat dirt after this!"],
+
+    "declaringWar":"The time for speeches is long past. Any further diplomacy between us must be conducted on the battlefield!",
+    "attacking":"Then send all the 'armies' you want. None shall overwhelm Goguryeo's stout-hearted soldiers.",
+    "defeated":"You have triumphed today, and for that you have my begrudging admiration. Not many have done battle with my armies and come away victorious.",
+    "afterPeace":"If you want peace, then I will give peace across our realms, and you shall make no more mistakes ever again.",
+    "tradeRequest":"We would glad if you can trade with us with this.",
+
+    "outerColor":[255,25,25],
+    "innerColor":[255,255,244],
+
+    "uniqueName":"Eternal Rejoice",
+    "uniques":["Earn Golden Age points from claiming Hills and Mountain tiles while the empire is happy. Mounted units lose their rough terrain penalty when starting next to a Great General."],
+    "cities":["Gungnae","Jolbon","Mokjeo","Namso","Pyongyang","Shin","Hyeongdo","Gaemo","Baegam","Yodong","Ansi","Geonan","Bisa","Ogol","Bakjak","Buyeo","Wiryeseong","Okjeo","Uiju","Heunghwa","Jeongju","Yeonghae","Jeong-yung","Yeong-won","Pyeonglo","Sagju","Yeongheung","Maengju","Cheongsae","Unju","Ansu","Yeongsag","Yodeog","Yeongdong","Jeongbyeon","Wiwon"]
+  },
 ]
 //Template
 [
