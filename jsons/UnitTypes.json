@@ -37,4 +37,17 @@
     "unitType":"Steel Boats",
     "movementType":"Water",
   },
-  //Aerial
+  //Air
+  {
+    "unitType":"Transporter",
+    "movementType":"Air",
+  },
+  {
+    "unitType":"Paratrooper",
+    "movementType":"Air",
+  },
+  {
+    "unitType":"Bomber",
+    "movementType":"Air",
+  }
+]
