@@ -6,11 +6,34 @@
   {
     "name":"Monarchism",
     "governmentUniques":["When a Palace is built in a city, recieve +2 Cultural Point. When Great Person is expended, recieve +5 Cultural Point."],
+    "prerequisites":["Feudalism"],
+    "requiredEra": ["Medieval Era"],
   },
   {
     "name":"Tribal Chiefdom",
     "governmentUniques":["When at war, recieve +25% Production towards Melee and Scout units. When the capital is captured, can't settle new cities and can't recieve or built Settlers."],
     "prerequisites":["Tribalism"],
+    "requiredEra":["Ancient Era"],
+  },
+  {
+    "name":"Parliamentary Monarchism",
+    "governmentUniques":["Recieve the Friend status with every Cultural city-states, and recieve a Ranged unit when at war."],
+    "prerequisites":["Classical Republicanism", "Feudalism"],
+    "requiredEra":["Renaissance Era"],
+  },
+  {
+    "name":"Classical Republicanism",
+    "governmentUniques":["Recieve Great People 50 times faster. When a Great People is expended, recieve +5% in Culture, Faith, Gold, and Production."],
+    "prerequisites":["Tribal Chiefdom"],
+    "requiredEra":["Classical Era"],
+    "requiredPolicy":["The Election System"],
+  },
+  {
+    "name":"Autocracy",
+    "governmentUniques":["Receive one additional policy when adopts Tradition policy tree."],
+    "prerequisites":["Tribal Chiefdom"],
+    "requiredEra":["Ancient Era"],
+    "requiredPolicy":["Tradition"],
   },
   
     
