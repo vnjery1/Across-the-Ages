@@ -73,10 +73,19 @@
   },
   {
     "name":"Sultanate",
-    "governmentUniques":["Recieve a Vizier for each of a city. Each Vizier can do something unique effects on a city based on you assigned them for."],
+    "governmentUniques":["Recieve a Vizier for each of every city in a Civilization. Each Vizier can do something unique effects on a city based on you assigned them for."],
     "prerequisites":["Caliphate"],
     "requiredEra":["Medieval Era"],
     "requiredReligion":["Sunni Islamism"],
+  },
+  {
+    "name":"Shahanshahate",
+    "governmentUniques":["Recieve Great General and Great Writer faster when discovered Theology, Guilds and Mathematics."],
+    "prerequisites":["Tribalism (at the start of a game)","Caliphate (enhanced from Medieval Era)"],
+    "requiredEra":["Ancient Era"],
+    "enhancedEra":["Medieval Era"],
+    "obsoleteEra":["Information Era"],
+    "requiredReligion":["Shia Islamism (enhanced with Medieval Era)"],
   },
   {
     "name":"Feudalism",
@@ -84,5 +93,19 @@
     "prerequisites":["Autocracy","Classical Oligarchy"],
     "requiredEra":["Medieval Era"],
     "obsoleteEra":["Renaissance Era"],
+  },
+  {
+    "name":"Trading Republicanism",
+    "governmentUniques":["Recieve ×2 the amount of Gold in every Trade Mission. Recieve ×2 the Influence whenever a Trading Republicanism Civilization completes a City-State's quest."],
+    "prerequisites":["Classical Republicanism"],
+    "requiredEra":["Renaissance Era"],
+    "requiredPolicy":["Merchant Confederacy","Mercentilism"],
+  },
+  {
+    "name":"Democratic Republicanism",
+    "governmentUniques":["Recieve Great People ×5 faster every turn that Golden Age happens."],
+    "prerequisites":["Classical Republicanism"],
+    "requiredEra":["Renaissance Era"],
+    "requiredPolicy":["Entrepreneurship"],
   },
     
