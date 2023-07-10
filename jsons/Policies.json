@@ -1,7 +1,37 @@
 [
   {
     "name":"Tradition",
+    "requiredEra":["Ancient Era"],
     "adoptingUniques":["Greatly increases the rate of border expansion of cities by 25%.","Unlocks the Hanging Gardens","Receive +3 Culture in the Capital."],
     "completionUniques":["A free Aqueduct in your first four cities.","It also allows the purchase of Great Engineers with Faith starting in the Industrial Era."],
-    "policies":
-        "name":
+    "policies":[
+      {
+        "name":"Productive Environment",
+        "policyEffects":["+15% Production when building Wonders (any Era).","+1 20xHappiness5.png Happiness for every 10 Citizens in a City."],
+        "prerequisites":["Tradition"],
+        "row":1,
+        "column":1,
+      },
+      {
+        "name":"Garrisoned City",
+        "policyEffects":["Garrisoned units cost no maintenance and cities with a garrison gain 50% Ranged Combat Strength."],
+        "prerequisites":["Tradition"],
+        "row":1,
+        "column":2,
+      },
+      {
+        "name":"Legal System",
+        "policyEffects":["Provides a free culture building in your first 4 cities.","Provides a Courtroom after Guilds was discovered."],
+        "prerequisites":["Garrisoned City"],
+        "row":2,
+        "column":2,
+      },
+      {
+        "name":"Under One Man",
+        "policyEffects":["+1 Gold and -1 Unhappiness Unhappiness for every 2 Citizens in the Capital."],
+        "prerequisites":["Legal System"],
+        "obsoletes":["Under Multiple Men"],
+        "row":3,
+        "column":1,
+      },
+        
