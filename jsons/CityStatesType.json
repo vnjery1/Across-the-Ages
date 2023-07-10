@@ -7,3 +7,16 @@
     "name":"Maritime",
     "cityStateTypeUniques":["Give +1 Food or 1 Wood Boats unit to a civilization when that civilization is a Friend of the City-State. Give +2 Food or 2 Wood Boats units to a civilization when that civilization is an Ally to the City-State."],
   },
+  {
+    "name":"Militaristic",
+    "cityStateTypeUniques":["Give 5 Melee, Scout, Calvary, Machinery units to both civilizations that is either a Friend or an Ally of the City-State."],
+  },
+  {
+    "name":"",
+    "cityStateTypeUniques":[""],
+  },
+  {
+    "name":"",
+    "cityStateTypeUniques":[""],
+  },
+]
