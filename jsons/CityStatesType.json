@@ -1,22 +1,22 @@
 [
   {
     "name":"Cultural",
-    "cityStateTypeUniques":["Give +5 Culture Points to a civilization when that civilization is a Friend to the City-State. Give +10 Culture Points to a civilization when that civilization is an Ally to the City-State."],
+    "cityStateTypeUniques":["Give +5 Culture Points to a civilization when that civilization is a Friend to a Cultural City-State. Give +10 Culture Points to a civilization when that civilization is an Ally to a Cultural City-State."],
   },
   {
     "name":"Maritime",
-    "cityStateTypeUniques":["Give +1 Food or 1 Wood Boats unit to a civilization when that civilization is a Friend of the City-State. Give +2 Food or 2 Wood Boats units to a civilization when that civilization is an Ally to the City-State."],
+    "cityStateTypeUniques":["Give +1 Food or 1 Wood Boats unit to a civilization when that civilization is a Friend of a Maritime City-State. Give +2 Food or 2 Wood Boats units to a civilization when that civilization is an Ally to a Maritime City-State."],
   },
   {
     "name":"Militaristic",
-    "cityStateTypeUniques":["Give 5 Melee, Scout, Calvary, Machinery units to both civilizations that is either a Friend or an Ally of the City-State."],
+    "cityStateTypeUniques":["Give 5 Melee, Scout, Calvary, Machinery units to both civilizations that is either a Friend or an Ally of the Militaristic City-State."],
   },
   {
-    "name":"",
-    "cityStateTypeUniques":[""],
+    "name":"Mercantile",
+    "cityStateTypeUniques":["Give access to its resources when the Mercentile City-State have an Ally. Give +10 Happiness to a civilization when that civilization is a Friend of a Mercentile City-State."],
   },
   {
-    "name":"",
-    "cityStateTypeUniques":[""],
+    "name":"Religious",
+    "cityStateTypeUniques":["Give +5 Faith to a civilization when that civilization is a Friend of a Religious City-State. Give +10 Faith to a civilization when that civilization is an Ally of a Religious City-State."],
   },
 ]
