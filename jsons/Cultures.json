@@ -1,1 +1,27 @@
-
+[
+  {
+    "name":"Austropolynesia",
+    "startingBonus":["Recieve 1 Scout, and sight of nearby land."],
+  },
+  {
+    "name":"Amazonian",
+    "startingBonus":["Pottery already researched."],
+  },
+  {
+    "name":"Andean",
+    "startingBonus":["Receive +1 Gold for every resources near a city."],
+  },
+  {
+    "name":"Bantu",
+    "startingBonus":["Recieve 1 Spearman at the start of the game. Recieve +10 experience points for every units in the Ancient era."],
+  },
+  {
+    "name":"Bharata",
+    "startingBonus":["Recieve +1 Incense for every resorces that near a city."],
+  },
+  {
+    "name":"Eastern Africa",
+    "startingBonus":["Recieve +1 Stone for every Mountain or Hills that near the city."],
+  },
+  {
+    "
