@@ -3,7 +3,7 @@
   {
     "name":"Great Artist",
     "unitType":"Civilian",
-    "uniques":["Can make a Great Works of Art.","Can make a 6-turns Golden Age.","Can make Landmarks."],
+    "uniques":["Can create a Great Work of Arts.","Can make a 6-turns Golden Age.","Can make Landmarks."],
     "movement":2,
   },
   {
@@ -17,5 +17,56 @@
     "unitType":"Civilian",
     "uniques":["Can build Port in Classical Era and beyond.","Can +50% attacking bonus for Water units.","Can heal any Water units."],
     "movement":2 on other tiles, 5 on lake, coast, and sea tiles.
+  },
+  {
+    "name":"Great General",
+    "unitType":"Citizen",
+    "uniques":["Can built Citadel or Fortress in Classical Era and beyond when researched Construction.","Can +50% attacking bonus for Land units."],
+    "movement":5,
+  },
+  {
+    "name":"Great Merchant",
+    "unittype":"Civilian",
+    "uniques":["Can go for a Trade Mission with City-States for 10 Gold and 10 Influence.","Can go for a trade mission to other Civilization for 10 Gold for both Civilizations.","Can build a Customs House."],
+    "movement":2,
+  },
+  {
+    "name":"Great Navigator",
+    "unitType":"Civilian",
+    "uniqueToCulture":["Western","Hispanic","Slavic","Oriental","Austropolynesian","Oceanic"],
+    "uniques":["Can built a Navigation School (Western, Hispanic, Slavic, Oriental), or build a Moai (Oceanic), or build a Malawah (Austropolynesian)","Can be expended 5 times"],
+    "movement":2 on other tiles, 5 on Coast and Sea tiles.
+  },
+  {
+    "name":"Great Musician",
+    "unitTypes":"Civilian",
+    "uniques":["Can create a Great Work of Music.","Can make a 6-turn Golden Age."],
+    "movement":2,
+  },
+  {
+    "name":"Great Prophet",
+    "unitType":"Civilian",
+    "uniques":["Can Found or Enhance a Religion.","Can Spread Religion (up to 4 times).","Can build a Holy Site.","Can go into every border without an Open Border deal."],
+    "movement":2,
+  },
+  {
+    "name":"Great Scientist",
+    "unitType":"Civilian",
+    "uniques":["Can Discover a Technology in Ancient Era.","Can Hurry Research a Technology in Classical Era and beyond.","Can build a Academy (from Medieval Era and beyond) or a Research Institute (from Industrial Era and beyond) or a Laboratory (from Modern Era and beyond)."],
+    "movement":2,
+  },
+  {
+    "name":"Great Writer",
+    "unitType":"Civilian",
+    "uniques":["Can create a Great Work of Literature.","Can write a Political Treatise, which recieve +25 Culture Points","Can build a Scene Stage in Medieval Era, this will be obsolete in Industrial Era."],
+    "movement":2,
+  },
+  {
+    "name":"Vizier",
+    "unitType":"Civilian",
+    "replaces":["Great Admiral","Great Engineer","Great General","Great Navigator","Great Scientist","Great Writer"],
+    "requiredGovernment":["Sultanate"],
+    "uniques":["Can +50% attacking bonus for Land and Water units.","Can heal any Land and Water units, except Civilian units.","Can Hurry Production or Research.","Can be expended 5 times","Can create a Great Work of Literature.","Can Own a City."],
+    "movement":2 on other tiles, 5 on Coast and Sea tiles.
   },
   
