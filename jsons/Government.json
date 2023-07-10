@@ -46,6 +46,7 @@
   {
     "name":"Theocracy",
     "governmentUniques":["When adopt this government, a Great Prophet will be built. When a Religious Building was built, recieve a Missionary. Great Prophet and Missionary can spread the religion 10 times."],
+    "prerequisites":["Autocracy"],
     "requiredEra":["Medieval Era"],
     "requiredTech":["Theology"],
   },
@@ -56,5 +57,32 @@
     "requiredEra":["Medieval Era"],
     "requiredReligion":["Sunni Islamism", "Shia Islamism"],
   },
-  
+  {
+    "name":"Emirate",
+    "governmentUniques":["When Great General is built, the land units will got +5% attack effectiveness. When a Great Admiral is built, all Water units will have +5% attack effectiveness. When a Great General or a Great Admiral is expended, recieve 20-turn Golden Age."],
+    "prerequisites":["Imamate","Aristocracy"],
+    "requiredEra":["Medieval Era"],
+    "requiredReligion":["Sunni Islamism", "Shia Islamism"],
+  },
+  {
+    "name":"Caliphate",
+    "governmentUniques":["A Great People can be expended 2 times, except the Great Writer, Great Scientist can be expended 5 times, and Great Prophet can be expended 10 times. Recieve the Masjid wherever a city is adapting your religion."],
+    "prerequisites":["Imamate","Emirate"],
+    "requiredEra":["Medieval Era"],
+    "requiredReligion":["Sunni Islamism"],
+  },
+  {
+    "name":"Sultanate",
+    "governmentUniques":["Recieve a Vizier for each of a city. Each Vizier can do something unique effects on a city based on you assigned them for."],
+    "prerequisites":["Caliphate"],
+    "requiredEra":["Medieval Era"],
+    "requiredReligion":["Sunni Islamism"],
+  },
+  {
+    "name":"Feudalism",
+    "governmentUniques":["Civilian units must be protected by other units, or they can be captured by the Barbarian or enemy units. When the civilization is unhappy, the workers can make a Peasant Revolution. When the civilization is low on Melee, Ranged, Calvary, or Artillery units, the workers can turn into Peasant Levy."],
+    "prerequisites":["Autocracy","Classical Oligarchy"],
+    "requiredEra":["Medieval Era"],
+    "obsoleteEra":["Renaissance Era"],
+  },
     
