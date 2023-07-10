@@ -1,3 +1,21 @@
 [
   //Great People
+  {
+    "name":"Great Artist",
+    "unitType":"Civilian",
+    "uniques":["Can make a Great Works of Art.","Can make a 6-turns Golden Age.","Can make Landmarks."],
+    "movement":2,
+  },
+  {
+    "name":"Great Engineer",
+    "unitType":"Civilian",
+    "uniques":["Can Hurry Production.","Can build a Manufactory in Industrial Era and beyond."],
+    "movement":2,
+  },
+  {
+    "name":"Great Admiral",
+    "unitType":"Civilian",
+    "uniques":["Can build Port in Classical Era and beyond.","Can +50% attacking bonus for Water units.","Can heal any Water units."],
+    "movement":2 on other tiles, 5 on lake, coast, and sea tiles.
+  },
   
