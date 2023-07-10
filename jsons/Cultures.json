@@ -119,3 +119,12 @@
     "name":"Western African",
     "startingBonus":["Recieve a Caravansary at the start of the Game."],
   },
+  {
+    "name":"Western",
+    "startingBonus":["Recieve Great Adrimal and 100 Gold at the start of the game."],
+  },
+  {
+    "name":"Woodlands",
+    "startingBonus":["Recieve 1 Tomahawk and 1 Scout at the start of the game. Receive Woodsland promotion for every Scout and Melee units in Ancient, Classical and Medieval Eras."],
+  },
+]
