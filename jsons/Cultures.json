@@ -12,6 +12,10 @@
     "startingBonus":["Receive +1 Gold for every resources near a city."],
   },
   {
+    "name":"Arabian",
+    "startingBonus":["Animal Husbandry already researched."],
+  },
+  {
     "name":"Bantu",
     "startingBonus":["Recieve 1 Spearman at the start of the game. Recieve +10 experience points for every units in the Ancient era."],
   },
@@ -20,8 +24,98 @@
     "startingBonus":["Recieve +1 Incense for every resorces that near a city."],
   },
   {
-    "name":"Eastern Africa",
-    "startingBonus":["Recieve +1 Stone for every Mountain or Hills that near the city."],
+    "name":"Caucasus",
+    "startingBonus":["Can settle cities on Mountains tiles."],
   },
   {
-    "
+    "name":"Celtic",
+    "startingBonus":["Recieve 1 Warrior at the start of the game. Recieve Amphibious promotion for every Melee units in the Ancient Era."],
+  },
+  {
+    "name":"Central African",
+    "startingBonus":["Mining already researched."],
+  },
+  {
+    "name":"Colonial",
+    "startingBonus":["Additional territory will be added for the Capital."],
+  },
+  {
+    "name":"Danubian-Rhine-Alpine",
+    "startingBonus":["Granary will be built at the capital at the start of the game."],
+  },
+  {
+    "name":"Eastern African",
+    "startingBonus":["Recieve +1 Stone by having Mountains and Hills tiles near a city."],
+  },
+  {
+    "name":"Great Plains",
+    "startingBonus":["Trapping already researched."],
+  },
+  {
+    "name":"Greek",
+    "startingBonus":["Recieve +1 Olive in every farms and plantations near a city. Alphabet already researched."],
+  },
+  {
+    "name":"Himalayan",
+    "startingBonus":["Temple will be built at the capital at the start of the game."],
+  },
+  {
+    "name":"Hispanic",
+    "startingBonus":["Recieve 1 Inquisitor in the Capital when adapting a Religion."],
+  },
+  {
+    "name":"Italic",
+    "startingBonus":["Recieve +1 Wine in Plains and Greensland tiles near a city. Recieving a free Folllwer belief when creating a Religion and enhancing a Religion."],
+  },
+  {
+    "name":"Levantine",
+    "startingBonus":["Recieve 1 Scout at the start of the game. +1 Sight and +1 Movement for Scout, Melee, Calvary, Wood Boats and Civilian units in the Ancient and Classical Eras."],
+  },
+  {
+    "name":"Mandala",
+    "startingBonus":["Recieve 1 Scout at the start of the Game. Review all locations of all City-States in the entire game."],
+  },
+  {
+    "name":"Mediterranean",
+    "startingBonus":["Recieve +1 Dye in every Luxury Resources that near a city."],
+  },
+  {
+    "name":"Mesoamerican",
+    "startingBonus":["Calendar already researched."],
+  },
+  {
+    "name":"Mesopotamian",
+    "startingBonus":["Recieve +1 Food in every farms near a city. Recieve +10 every time a National Wonder is built."],
+  },
+  {
+    "name":"Nursatara",
+    "startingBonus":["Recieve +1 Spice in every Jungle and Forest tiles that near a city."],
+  },
+  {
+    "name":"Oceanic",
+    "startingBonus":["Recieve 1 Scout at the start of the game. Sailing and Navigation already researched. Recieve Ocean Embarking for every Land and Water units."],
+  },
+  {
+    "name":"Oriental",
+    "startingBonus":["Recieve 1 Worker at the start of the game. Recieve 2 free Technologies in the Ancient and Classical Eras."],
+  },
+  {
+    "name":"Pacific",
+    "startingBonus":["Sailing and Fishing already researched"],
+  },
+  {
+    "name":"Polar",
+    "startingBonus":["Trapping and Archery already researched. Recieve +1 Deer in Tundra and Snow tiles near a city."],
+  },
+  {
+    "name":"Slavic",
+    "startingBonus":["Recieve Walls and Barracks at the capital at the start of the game."],
+  },
+  {
+    "name":"Turkic",
+    "startingBonus":["Recieve 2 Horses in every Plains and Desert tiles near a city. Horse Riding already researched."],
+  },
+  {
+    "name":"Western African",
+    "startingBonus":["Recieve a Caravansary at the start of the Game."],
+  },
