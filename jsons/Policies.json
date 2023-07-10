@@ -1,0 +1,7 @@
+[
+  {
+    "name":"Tradition",
+    "adoptingUniques":["Greatly increases the rate of border expansion of cities by 25%.","Unlocks the Hanging Gardens","Receive +3 Culture in the Capital."],
+    "completionUniques":["A free Aqueduct in your first four cities.","It also allows the purchase of Great Engineers with Faith starting in the Industrial Era."],
+    "policies":
+        "name":
