@@ -2,12 +2,11 @@
   {
     "name":"Tradition",
     "requiredEra":["Ancient Era"],
-    "adoptingUniques":["Greatly increases the rate of border expansion of cities by 25%.","Unlocks the Hanging Gardens","Receive +3 Culture in the Capital."],
-    "completionUniques":["A free Aqueduct in your first four cities.","It also allows the purchase of Great Engineers with Faith starting in the Industrial Era."],
+    "uniques":["Greatly increases the rate of border expansion of cities by 25%.","Unlocks the Hanging Gardens","Receive +3 Culture in the Capital."],
     "policies":[
       {
         "name":"Productive Environment",
-        "policyEffects":["+15% Production when building Wonders (any Era).","+1 20xHappiness5.png Happiness for every 10 Citizens in a City."],
+        "policyEffects":["+15% Production when building Wonders (any Era).","+1 Happiness for every 10 Citizens in a City."],
         "prerequisites":["Tradition"],
         "row":1,
         "column":1,
@@ -34,4 +33,64 @@
         "row":3,
         "column":1,
       },
+      {
+        "name":"Agriculture Landlords"
+        "uniques":["+10% Growth and +2 Food in the Capital."],
+        "prerequisites":["Legal System"],
+        "row":3,
+        "column":2,
+      },
+      {
+        "name":"Tradition Completion",
+        "uniques":["A free Aqueduct in your first four cities.","It also allows the purchase of Great Engineers with Faith starting in the Industrial Era."],
+      },
+    ],
+  },
+  {
+    "name":"Liberty",
+    "requiredEra":["Classical Era"],
+    "uniques":["Unlocks the Pyramid","Receive +1 Culture in every city."],
+    "policies":[
+      {
+        "name":"Wonders of Engineering",
+        "policyEffects":["+1 Production in every city","+5% Production in cities when constructing Historical Wonders."],
+        "prerequisites":["Liberty"],
+        "row":1,
+        "column":1,
+      },
+      {
+        "name":"Citizenship",
+        "policyEffects":["Tile improvement construction rate increased by 25% and a Worker appears near the Capital."],
+        "prerequisites":["Liberty"],
+        "row":1,
+        "column":2,
+      },
+      {
+        "name":"Educated Ones",
+        "policyEffects":["+1 Happiness for each City you own connected to the Capital and -5% Unhappiness Unhappiness from Citizens in non-occupied Cities.","Unlocks Classical University."],
+        "prerequisites":["Citizenship"],
+        "row":2,
+        "column":2,
+      },
+      {
+        "name":"Under Multiple Men",
+        "policyEffects":["Each city you found will increase the Culture cost of policies by 33% less than normal.","Start a 6-turn Golden Age."],
+        "prerequisites":["Citizenship"],
+        "obsoletes":["Under One Man"],
+        "row":2,
+        "column":3,
+      },
+      {
+        "name":"Collective Ruling"
+        "uniques":["Speeds the training of Settlers by 50% in the Capital.","Recieve a free Settler appears near the Capital."],
+        "prerequisites"["Wonders of Engineering"],
+        "row":2,
+        "column":1,
+      },
+      {
+        "name":"Liberty Completion",
+        "uniques":["A free Great People of choice"],
+      },
+    ],
+  },
         
