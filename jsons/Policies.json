@@ -60,14 +60,14 @@
       },
       {
         "name":"Citizenship",
-        "policyEffects":["Tile improvement construction rate increased by 25% and a Worker appears near the Capital."],
+        "policyEffects":["Tile improvement construction rate increased by 25%.","A Worker appears near the Capital."],
         "prerequisites":["Liberty"],
         "row":1,
         "column":2,
       },
       {
         "name":"Educated Ones",
-        "policyEffects":["+1 Happiness for each City you own connected to the Capital and -5% Unhappiness Unhappiness from Citizens in non-occupied Cities.","Unlocks Classical University."],
+        "policyEffects":["+1 Happiness for each City you own connected to the Capital","-5% Unhappiness Unhappiness from Citizens in non-occupied Cities.","Unlocks Classical University."],
         "prerequisites":["Citizenship"],
         "row":2,
         "column":2,
@@ -82,7 +82,7 @@
       },
       {
         "name":"Collective Ruling"
-        "uniques":["Speeds the training of Settlers by 50% in the Capital.","Recieve a free Settler appears near the Capital."],
+        "uniques":["Speeds the training of Settlers by 50% in the Capital.","A free Settler appears near the Capital."],
         "prerequisites"["Wonders of Engineering"],
         "row":2,
         "column":1,
@@ -90,6 +90,53 @@
       {
         "name":"Liberty Completion",
         "uniques":["A free Great People of choice"],
+      },
+    ],
+  },
+  
+  {
+    "name":"Honor",
+    "requiredEra":["Classical Era"],
+    "uniques":["Unlocks the Statue of Zeus","Receive +33% Combat Bonus against Barbarians.","Notifications will be provided when new Barbarian Encampments spawn in revealed territory.","Gain +5 Culture for the empire from each barbarian unit killed"],
+    "policies":[
+      {
+        "name":"Warrior Code",
+        "policyEffects":["+15% Production when training Melee units","A Great General appears outside the Capital.","Great General earned 50% faster"],
+        "prerequisites":["Honor"],
+        "row":1,
+        "column":1,
+      },
+      {
+        "name":"Discipline",
+        "policyEffect":["+15% Combat Strength for Melee units, which have another military unit in an adjacent tile."],
+        "prerequisites":["Liberty"],
+        "row":1,
+        "column":2,
+      },
+      {
+        "name":"Military Caste",
+        "policyEffects":["Each City with a garrison increases local city's Happiness and Culture by 2."],
+        "prerequisites":["Discipline"],
+        "row":2,
+        "column":3,
+      },
+      {
+        "name":"Military Tradition",
+        "policyEffects":["Military Units gain 50% more Experience from combat."],
+        "prerequisites":["Warrior Code","Tradition Completion"],
+        "row":2,
+        "column":1,
+      },
+      {
+        "name":"Collective Ruling"
+        "uniques":["Gold cost of upgrading Military Units reduced by 33%","+1 Happiness in Local City","+1 Happiness from every defensive buildings.","Construct Barracks, Armories and Military School 50% faster."],
+        "prerequisites"["Military Caste"],
+        "row":3,
+        "column":2,
+      },
+      {
+        "name":"Honor Completion",
+        "uniques":["Recieve +5 Gold for each enemy units killed by your units.","It also allows the purchase of Great Generals with Faith starting from the Industrial Era."],
       },
     ],
   },
