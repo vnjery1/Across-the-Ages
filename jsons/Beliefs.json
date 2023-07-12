@@ -2,3 +2,53 @@
   //Pantheon
   {
     "name":"Dance of the Aurora",
+    "beliefType":"Pantheon",
+    "uniques":["+1 Faith from Deer and featureless Tundra tiles."],
+  },
+  {
+    "name":"Earth Mother",
+    "beliefType":"Pantheon",
+    "uniques":["+1 Faith from Marble and Stone."],
+  },
+  {
+    "name":"Equestrian Mythology",
+    "beliefType":"Pantheon",
+    "uniques":["+2 Faith from Horse."],
+  },
+  {
+    "name":"Fateweaver",
+    "beliefType":"Pantheon",
+    "uniques":["+1 Faith from Silk, Cotton and Dye."],
+  },
+  {
+    "name":"Goddess of Marine Animals",
+    "beliefType":"Pantheon",
+    "uniques":["+1 Faith from Fish and Salt."],
+  },
+  {
+    "name":"God-King",
+    "beliefType":"Pantheon",
+    "uniques":["+1 Culture, Faith, Gold, Production, Science from Palace."],
+  },
+  {
+    "name":"God of Craftsman",
+    "beliefType":"Pantheon",
+    "uniques":["+1 Faith from Iron and Copper."],
+  },
+  {
+    "name":"God of the Desert",
+    "beliefType":"Pantheon",
+    "uniques":["+2 Faith from Oases and Incense."],
+  },
+  {
+    "name":"God of the Sea",
+    "beliefType":"Pantheon",
+    "uniques":["+2 Faith from Atolls and Crabs."],
+  },
+  //Template
+  {
+    "name":"Template",
+    "beliefType":"Template",
+    "uniques":[""],
+  },
+]
