@@ -93,7 +93,6 @@
       },
     ],
   },
-  
   {
     "name":"Honor",
     "requiredEra":["Classical Era"],
@@ -109,7 +108,7 @@
       {
         "name":"Discipline",
         "policyEffect":["+15% Combat Strength for Melee units, which have another military unit in an adjacent tile."],
-        "prerequisites":["Liberty"],
+        "prerequisites":["Honor"],
         "row":1,
         "column":2,
       },
@@ -128,7 +127,7 @@
         "column":1,
       },
       {
-        "name":"Collective Ruling"
+        "name":"Professional Army"
         "uniques":["Gold cost of upgrading Military Units reduced by 33%","+1 Happiness in Local City","+1 Happiness from every defensive buildings.","Construct Barracks, Armories and Military School 50% faster."],
         "prerequisites"["Military Caste"],
         "row":3,
@@ -137,6 +136,105 @@
       {
         "name":"Honor Completion",
         "uniques":["Recieve +5 Gold for each enemy units killed by your units.","It also allows the purchase of Great Generals with Faith starting from the Industrial Era."],
+      },
+    ],
+  },
+  {
+    "name":"Piety",
+    "requiredEra":["Classical Era, Medieval Era"],
+    "uniques":["Unlocks the Great Mosque of Djenne","Reduce the time to build Cultural buildings by 15%, Shrine and Temple by 50%","Notifications will be provided when new Barbarian Encampments spawn in revealed territory.","Gain +5 Culture for the empire from each barbarian unit killed"],
+    "policies":[
+      {
+        "name":"Organize Religion",
+        "policyEffects":["+1 Happiness from Monuments, Temples, and Monasteries.","+1 Faith from Shrine and Temple."],
+        "prerequisites":["Piety"],
+        "row":1,
+        "column":1,
+      },
+      {
+        "name":"Mandate of Heaven",
+        "policyEffect":["50% of excessHappiness added each turn to the amount of Culture that may be spent on Social Policies."],
+        "prerequisites":["Piety"],
+        "row":1,
+        "column":2,
+      },
+      {
+        "name":"Bleesings of God",
+        "policyEffects":["Temples increase a City's Gold output by 25%.","Holy Site provides +3 Gold."],
+        "prerequisites":["Organized Religion"],
+        "row":2,
+        "column":1,
+      },
+      {
+        "name":"Religious Tolerance",
+        "policyEffects":["Reduces the Culture cost of future Policies by 10%.","Cities with a majority religion also get the Pantheon belief bonus of the second most popular religion."],
+        "prerequisites":["Organized Religion"],
+        "row":2,
+        "column":3,
+      },
+      {
+        "name":"Social Religious Security"
+        "uniques":["Gives 1 free Social Policy.","+1 Culture from Monuments, Temples, and Monasteries."],
+        "prerequisites"["Mandate of Heaven","Religious Reformation"],
+        "row":4,
+        "column":2,
+      },
+      {
+        "name":"Religious Reformation",
+        "uniques":["Culture increased by 33% in all cities which have built a World Wonder and the empire immediately enters a Golden Age.","If  you founded a religion, gain a bonus Reformation belief."],
+        "prerequisites":["Organized Religion","Religious Tolerance"],
+        "row":3,
+        "column":2,
+      },
+      {
+        "name":"Piety Completion",
+        "uniques":["Reduce the Culture cost of future policies by 10%","Provide a 20% discount on all purchase of religion units and buildings with Faith.","Holy Site provide +3 Gold and +3 Culture","A Great Prophet appears."],
+      },
+    ],
+  },
+  {
+    "name":"Patronage",
+    "requiredEra":["Medieval Era"],
+    "uniques":["Unlocks the Forbidden Palace","Cause Influece with City-State to decrease 25% slower than normal."],
+    "policies":[
+      {
+        "name":"Philanthropy",
+        "policyEffects":["Gifts of Golds to a City-State generate 25% more Influence."],
+        "prerequisites":["Patronage"],
+        "row":1,
+        "column":1,
+      },
+      {
+        "name":"Suzerainty",
+        "policyEffect":["Resting point for Influence Influence level with all City-States is increased by 20."],
+        "prerequisites":["Patronage"],
+        "row":1,
+        "column":3,
+      },
+      {
+        "name":"Scholasticism",
+        "policyEffects":["All City-States which are Allies provide a Science bonus equal to 25% of what they produce for themselves."],
+        "prerequisites":["Philanthropy"],
+        "row":2,
+        "column":2,
+      },
+      {
+        "name":"Cultural Diplomacy",
+        "policyEffects":["Quantity of Resources gifted by City-States increased by 100%.","Happiness from gifted Luxuries increased by 50%."],
+        "prerequisites":["Scholasticism"],
+        "row":3,
+        "column":1,
+      },
+      {
+        "name":"Merchant Confederation"
+        "uniques":["Allied City-States will occasionally gift you Great People.","+2 Gold for trade routes with City-States."],
+        "prerequisites"["Scholasticism","Suzerainty"],
+        "row":3,
+        "column":3,
+      },
+      {
+        "name":"Patronage Completion",
+        "uniques":["Make other players' Influence with City-States decrease 33% more than usual.","Only one player can activate this completion, no other players can complete this ever again.","Cause allied City-States yo occasionally give you Great People."],
       },
     ],
   },
