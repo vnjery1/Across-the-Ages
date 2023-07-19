@@ -331,6 +331,42 @@
     "uniques":["Receive an additional Trade Route and a free Caravan when establishing an International Trade Route from each original Capital for the first time, including your own."],
     "cities":["","","","","","","","","","","","","","","","","","","","","","","","","","","","","","",""]
   },
+  {
+    "name":"Taiping",
+    "leaderName":"Hong Xiuquan",
+    "adjective":["Heavenly Citizen"],
+    "startBias":["River"],
+    "preferredVictoryType":"Religion, Domination",
+    "favoredReligion":"Catholicism",
+    "nationCulturalType":"Oriental",
+    "nationGovernment":"Monarchism",
+
+    "startIntroPart1":"Praise be to Him, Hong Xiuquan, Son of God and Tian Wang of the Heavenly Kingdom. Divine King, spurned at a young age by imperial academics, your grand revelation came to you after an encounter with a Christian missionary. In your dream you saw your Celestial Family, your Holy Father and Brother, lamenting the fall of the Middle Kingdom to foreign demons. With their guidance you took up your divine mission, preaching the Word of God among your people and organizing a congregation that would number into the tens of thousands. As government forces began to approach your villages and threaten your followers, you proclaimed the Heavenly Kingdom of Great Peace, and rose up in rebellion against the great demons themselves - the hated Manchus.",
+    "startIntroPart2":"Godsent King, in your hand you wield the Universe. The time has come again for you to heed the Word of the Lord. Can you, with divine authority, execute evil and preserve the righteous? Can you build a civilization that will stand the test of time?",
+
+    "introduction":"I am the Heavenly King, Hong Xiuquan. Know that ours is a divine mission, blessed with the authority of the Heavenly Father and Elder Brother.",
+    "neutralHello":"",
+    "neutralLetsHearIt":["",""],
+    "neutralYes":["","",""],
+    "neutralNo":["",""],
+    "hateHello":"",
+    "hateLetsHearIt":["",""],
+    "hateYes":["",""],
+    "hateNo":["",""],
+
+    "declaringWar":"",
+    "attacking":"",
+    "defeated":"And so the fate that befell the Elder Brother, befalls the younger. I go now to reunite with my Celestial Family.",
+    "afterPeace":"",
+    "tradeRequest":"",
+
+    "outerColor":[255,255,255],
+    "innerColor":[0,0,0],
+
+    "uniqueName":"Brother of Christ",
+    "uniques":["Upon capturing a City, earn a boost of Faith and a restore a portion of the City's HP for each pillaged tile within working distance. Puppet Cities produce +25% Religious Pressure while following your Religion."],
+    "cities":["Taiping","Anqing","","","","","","","","","","","","","","","","","","","","","","","","","","","","",""]
+  },
 //Template
   {
     "name":"Template",
